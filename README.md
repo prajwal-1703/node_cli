@@ -1,4 +1,3 @@
-````markdown
 # 📘 Node.js CLI Tool with Commander
 
 This is a simple CLI (Command-Line Interface) tool built using the [`commander`](https://www.npmjs.com/package/commander) library in Node.js. It performs basic file-based operations such as counting the number of **words** and **lines** in a given file.
